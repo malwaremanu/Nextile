@@ -52,8 +52,8 @@ export default {
     data(){
         return {
             r : {
-                ingredients : 'Rice, Meat',
-                mealType : 'Lunch',
+                ingredients : 'Rice, Dal, Ghee',
+                mealType : 'Breakfast',
                 cuisine : 'Indian',
                 cookingTime : 'Less than 30 minutes',
                 complexity : 'Beginner',
